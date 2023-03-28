@@ -1,7 +1,6 @@
-### Hi there 👋
 
 ### Hi there 👋, I'm Yakub
-![](https://pbs.twimg.com/profile_banners/1585930656198320128/1679999963/600x200)
+![](https://pbs.twimg.com/profile_banners/1585930656198320128/1679999963/1500x500)
 
  I am Yakub from India. Currently pursuing 3rd year in computer science at Rajiv Gandhi university of knowledge technologies, Basar, Telangana. 
   
